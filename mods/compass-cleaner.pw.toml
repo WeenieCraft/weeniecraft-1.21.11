@@ -1,0 +1,13 @@
+name = "Compass Cleaner"
+filename = "compasscleaner-1.21.11-2.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cnX6GB7a/versions/ngNIdT0i/compasscleaner-1.21.11-2.0.1.jar"
+hash-format = "sha1"
+hash = "311ee327e4251f4a1bdb852b0a9bb534fa448f5b"
+
+[update]
+[update.modrinth]
+mod-id = "cnX6GB7a"
+version = "ngNIdT0i"
