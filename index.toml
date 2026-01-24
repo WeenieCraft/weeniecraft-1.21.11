@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "dc4974ae5c784bcbbce60366e6feb77dff4390d7fe3e821fe04cd5663486953e"
+
+[[files]]
+file = "config/polymer/auto-host.json"
+hash = "488af4458ae82bd66ec48bfcf30e3c8d5e01b07f537061b22c6a3030e1d83fae"
+
+[[files]]
+file = "config/polymer/common.json"
+hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "c4bb37ab079bc52129b2c4df2427bda7f9d31cf636c55e200ec1bdde8d670d8e"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "eaec27618070f4daf636a5e8457c978e1d9afffa22fba907eca29cdd700a94d2"
+
+[[files]]
+file = "config/polymer/sound-patch.json"
+hash = "f815116c7a6a7ba28de432cf2be7fdbf49e2e1adb5436438d347d391ee3b5c74"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "00d03a933e104069543be7ecad9b67830234f06e1c36d37a85af8667723c53ad"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "d0a52736b7ad4c26bd0e32d1a1fbabf6f80fa35e07cdda7637098f64260d71ba"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "bbb36ff8d56ad5221b333b73b5d6d28f52088e26c919bf0d002ccc0de6ca4f6a"
 metafile = true
