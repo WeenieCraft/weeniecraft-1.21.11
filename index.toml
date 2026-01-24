@@ -37,6 +37,11 @@ file = "config/universal-graves/config.json"
 hash = "d0a52736b7ad4c26bd0e32d1a1fbabf6f80fa35e07cdda7637098f64260d71ba"
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "1141f29ef989f74b83576c504b9ab3695b6a7c77467cd392812c35603090ba0d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "bbb36ff8d56ad5221b333b73b5d6d28f52088e26c919bf0d002ccc0de6ca4f6a"
 metafile = true
@@ -122,8 +127,23 @@ hash = "b92b7a11eaa98cc4daeca372a45c6fd475e72720695098a80320aba06aeb1fd2"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "6e9e3f2c4be345c641c42158e0219da1e8c230b1787e2ecd26eed84523d2a1c9"
+metafile = true
+
+[[files]]
 file = "mods/jline4mcdsrv.pw.toml"
 hash = "314adade7d4ab299936da16132b23ddb950401cd08980a9054b50bb69e35883e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "33c7bf9fc34101fcc51b6abd29a58f908b154b281f2fbf618fe60d46c5437df9"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "d7f58f3429d86c089b8a628a6e4738d34a44b49a6081c86745b4903032a96b20"
 metafile = true
 
 [[files]]
