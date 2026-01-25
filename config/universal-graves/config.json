@@ -14,7 +14,7 @@
       "count": 0
     },
     "give_death_compass": true,
-    "enable_use_death_compass_to_open_gui": false,
+    "enable_use_death_compass_to_open_gui": true,
     "enable_click_to_open_gui": true,
     "shift_and_use_quick_pickup": true,
     "break_quick_pickup": true,

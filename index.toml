@@ -34,7 +34,7 @@ hash = "00d03a933e104069543be7ecad9b67830234f06e1c36d37a85af8667723c53ad"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "d0a52736b7ad4c26bd0e32d1a1fbabf6f80fa35e07cdda7637098f64260d71ba"
+hash = "2db41197d8e833fd5fd405204893627c619999b5963c0891a7ed26dd0403696c"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
