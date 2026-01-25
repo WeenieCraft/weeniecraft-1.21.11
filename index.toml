@@ -117,8 +117,8 @@ hash = "f04a50b98db9b5b0504c1a5e9cbddd82f94db293d841d2b3f38a18b70d8875d0"
 metafile = true
 
 [[files]]
-file = "mods/inventory-essentials.pw.toml"
-hash = "746c6dce7a4ddbba8e98c9eb06446884766854835630ddd3e0a5023275599b12"
+file = "mods/inventory-management.pw.toml"
+hash = "f3354bce8623b847b28ecb2445ac39186905f01c8114875be80e8b2df54185ca"
 metafile = true
 
 [[files]]
