@@ -9,6 +9,10 @@ file = "config/luckperms/luckperms.conf"
 hash = "dc4974ae5c784bcbbce60366e6feb77dff4390d7fe3e821fe04cd5663486953e"
 
 [[files]]
+file = "config/pl3xmap/config.yml"
+hash = "8b9620b2fefd9f8930e2569bb102470f9cc47617435d92e30d42da48b77ba793"
+
+[[files]]
 file = "config/polymer/auto-host.json"
 hash = "488af4458ae82bd66ec48bfcf30e3c8d5e01b07f537061b22c6a3030e1d83fae"
 
