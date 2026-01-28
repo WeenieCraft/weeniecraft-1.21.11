@@ -38,7 +38,7 @@ hash = "2db41197d8e833fd5fd405204893627c619999b5963c0891a7ed26dd0403696c"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "1141f29ef989f74b83576c504b9ab3695b6a7c77467cd392812c35603090ba0d"
+hash = "738dd86b6929b15ddf83e3d10c14fef3609250a61d182f10f6c9632728c7a18a"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "2ed2ceb39fe825d8914b9fc83f0e293ff3265aecbbc0b7411dc85c15700decdc"
+hash = "b94b85f4c2ab8bf1b923ad9d5c77b0183e7996c5ccf83b35fee10af2c00c04fc"
 metafile = true
 
 [[files]]
@@ -184,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/no-feather-trample.pw.toml"
 hash = "84e404dd0e9e9d841520ca6541dde5eedea995f1cc56704f0bcdb77f441c6b8e"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "9e1d1961e4b6a996854e1f34ab57365df9f0bf76c0bf438e76fee78f409258b6"
 metafile = true
 
 [[files]]
