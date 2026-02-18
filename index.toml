@@ -42,7 +42,7 @@ hash = "2db41197d8e833fd5fd405204893627c619999b5963c0891a7ed26dd0403696c"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "738dd86b6929b15ddf83e3d10c14fef3609250a61d182f10f6c9632728c7a18a"
+hash = "36c78708a90de340e7cb4e87a678c78cf59ba3d8c403ba843a34927f43a57ee8"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8aa515b4d828d1b8f16b22c3390a29d515f2a3d7dd47e39a1256408e031e5729"
+hash = "2a28528303ba297add7d89da6cc3c8ad946a4c4c87b21bf16364bffaffc7fdaa"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "d7f58f3429d86c089b8a628a6e4738d34a44b49a6081c86745b4903032a96b20"
+hash = "dec22afb0eb4076b73d061418079bf4b3f29a712ff3e7ec1cb4ef5fae0c32802"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e2a0b29673d3a5abac04b62156352a337b088402b0dc216550bc8af6d16a683a"
+hash = "a7c7ba729cd9a24693f6cf64768e3a8a6d81bcc82804ffc9b36e7b7b200f7650"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "70701819d7c8d1f9499e8b8d1353bf5f8bebf1f322425f96e78b7face60ac613"
+hash = "4b7c84e0e66e3fc6a06bf2a774bc7852be79ceed332af1315a8d38ece2c35066"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "2ca70e6d1214d4498eaba13960bf8858a752d108a42d0efe3e4b91a9d7fb6b40"
+hash = "39ade8cd0093da94f8bb789243a0f828191f6a0a88f9713581d6a053c66cc29d"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "ab0e113320f3b5d095dae429a5efc409194365530a5b067cb55a7af46493fc49"
+hash = "50dde7b12b704f809ca2110d1f482066cf0dafd73356d06f610b140f37dfd064"
 metafile = true
 
 [[files]]
