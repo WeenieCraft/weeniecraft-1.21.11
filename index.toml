@@ -41,11 +41,6 @@ file = "config/universal-graves/config.json"
 hash = "2db41197d8e833fd5fd405204893627c619999b5963c0891a7ed26dd0403696c"
 
 [[files]]
-file = "mods/advanced-loot-info.pw.toml"
-hash = "36c78708a90de340e7cb4e87a678c78cf59ba3d8c403ba843a34927f43a57ee8"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "bbb36ff8d56ad5221b333b73b5d6d28f52088e26c919bf0d002ccc0de6ca4f6a"
 metafile = true

@@ -1,12 +1,12 @@
 name = "WeenieCraft 1.21.11"
 author = "Karteufel"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "23716b4f010fcdea113dde299670c0ef73b9018f051acd81db3994c6af603c19"
+hash = "bbc9abf9dfa5dddc58b0c8521aa10c33fa984d082df287c5fadefb7484aee5c2"
 
 [versions]
 fabric = "0.18.4"
