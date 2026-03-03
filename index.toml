@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "b92b7a11eaa98cc4daeca372a45c6fd475e72720695098a80320aba06aeb1fd2"
+hash = "c05100001bf59034b882bf0e637b63d1e873b9a7c2c1abd30d12593a2cee3dc9"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "39ade8cd0093da94f8bb789243a0f828191f6a0a88f9713581d6a053c66cc29d"
+hash = "c68f5d266376e63a13429b21a343eab420ef69864ff5b19a227c9de01e3b9817"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/pl3xmap.pw.toml"
-hash = "9e1d1961e4b6a996854e1f34ab57365df9f0bf76c0bf438e76fee78f409258b6"
+hash = "a2ce20fbb32badf7672ab1a71ded0de5af2f14ed84d94d371033b71e3857f2da"
 metafile = true
 
 [[files]]
